@@ -7,3 +7,6 @@ ByteLengthQueuingStrategy
 print
 onsubmit
 console.error();
+close
+visualViewport
+alert
