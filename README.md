@@ -2,7 +2,7 @@
 - 👀 I’m interested in  CI/CD..
 - 🌱 I’m Expert in Azure Devops/AWS..
 - 💞️ I’m looking to collaborate with New Teams..
-- 📫 How to reach me ... 8147222498/9880189370
+- 📫 How to reach me ... 8147222498/9880189370 ...Reachable..Thx(jay).
 
 
 <!---
