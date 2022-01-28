@@ -10,3 +10,7 @@ console.error();
 close
 visualViewport
 alert
+HTMLAreaElement
+JSON
+print();
+scroll
